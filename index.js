@@ -35,7 +35,19 @@ var questions = [{
 },{
   que: "What do I study ? ",
   ans: "CSE"
-},];
+},{
+  que: "Who is my favourite Super hero ? ",
+  ans: "Batman"
+},{
+  que: "What is favourite video game ? ",
+  ans: "Forza Horizon"
+},{
+  que: "What is my favourite sport ? ",
+  ans: "Football"
+},{
+  que: "What is my favourite movie ? ",
+  ans: "Sultan"
+}];
 
 // Loop For Acsessing The Array And Calling "play" Function. 
 for (var v=0;v<questions.length;v++){
